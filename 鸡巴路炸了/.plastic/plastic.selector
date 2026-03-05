@@ -1,0 +1,4 @@
+repository "鸡巴路炸了@tj_a9ffba12_45b4_4842_922b_623b4134133d@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
